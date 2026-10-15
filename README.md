@@ -16,8 +16,8 @@ I build full-stack products and I'm working toward data science: SQL, Python, st
 ### 📊 Data projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Pharmaceutical Sales Analysis](https://github.com/LefterDev/Analysing-pharmaceutical-sales-data) | Answers six business questions on multi-year drug sales: top categories (ATC) and brands, monthly leaders, and seasonality of respiratory drugs | Python · pandas · matplotlib · Jupyter |
-| [Netflix Dataset Cleaning](https://github.com/LefterDev/CleanNetflixDataset) | Cleans and prepares a raw Netflix catalogue dataset for analysis | Python · pandas |
+| [Pharmaceutical Sales Analysis](https://github.com/LefterSotiri/Analysing-pharmaceutical-sales-data) | Answers six business questions on multi-year drug sales: top categories (ATC) and brands, monthly leaders, and seasonality of respiratory drugs | Python · pandas · matplotlib · Jupyter |
+| [Netflix Dataset Cleaning](https://github.com/LefterSotiri/CleanNetflixDataset) | Cleans and prepares a raw Netflix catalogue dataset for analysis | Python · pandas |
 
 ### 🚀 Products I'm building
 | Product | What it is | Stack |
@@ -26,9 +26,9 @@ I build full-stack products and I'm working toward data science: SQL, Python, st
 | **HeavenOfSails** | Sailing yacht charters in Greece | TypeScript · React · Next.js · Express · MongoDB |
 
 ### 🧪 Earlier builds
-[Weather App](https://github.com/LefterDev/Weather-App-using-OpenWeatherAPI) (Express + OpenWeather API) ·
-[Authentication App](https://github.com/LefterDev/Authentication-App-with-MongoDB) (Passport + MongoDB) ·
-[Template Generator](https://github.com/LefterDev/Template-Generator) (Node.js CLI) ·
+[Weather App](https://github.com/LefterSotiri/Weather-App-using-OpenWeatherAPI) (Express + OpenWeather API) ·
+[Authentication App](https://github.com/LefterSotiri/Authentication-App-with-MongoDB) (Passport + MongoDB) ·
+[Template Generator](https://github.com/LefterSotiri/Template-Generator) (Node.js CLI) ·
 CS50x final project (Flask + PostgreSQL)
 
 ### 🛠️ Toolbox
@@ -40,4 +40,4 @@ CS50x final project (Flask + PostgreSQL)
 I publish a technical article every week on [daily.dev](https://daily.dev/leftersotiri).
 
 ### 📫 Contact
-[leftersotiri@proton.me](mailto:leftersotiri@proton.me) · [algocore.dev](https://algocore.dev)
+[leftersotiri@proton.me](mailto:leftersotiri@proton.me) · [leftersotiri@icloud.com](mailto:leftersotiri@icloud.com) · [algocore.dev](https://algocore.dev)
